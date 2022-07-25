@@ -1,1 +1,3 @@
-# Support user profile operations including register, login, display, update and logout
+# geekprofile
+## Support profile operations
+## Use Python and MySQL
